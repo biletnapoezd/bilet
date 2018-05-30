@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('/fonts/BebasNeueBold.woff2') format('woff2'),
+        url('/fonts/BebasNeueBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed Bold';
+    src: url('/fonts/RobotoCondensed-Bold.woff2') format('woff2'),
+        url('/fonts/RobotoCondensed-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed Reg';
+    src: url('/fonts/RobotoCondensed-Regular.woff2') format('woff2'),
+        url('/fonts/RobotoCondensed-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto It';
+    src: url('/fonts/Roboto-CondensedItalic.woff2') format('woff2'),
+        url('/fonts/Roboto-CondensedItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
